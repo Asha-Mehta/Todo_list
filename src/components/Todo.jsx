@@ -40,7 +40,7 @@ function Todo() {
   // create todo item with itemlist
   const createTodoItem = () => {
     const todoObj = {
-      id:  todoList.length,
+      id: Date.now() + todoList.length,
       description: inputItem,
       time: new Date()
     };
