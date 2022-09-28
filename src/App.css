@@ -76,10 +76,7 @@ input::placeholder {
   border: none;
   outline: none;
   cursor: pointer;
-  background: linear-gradient(
-    90deg,
-    rgba(93, 12, 255, 1) 0%,
-    rgba(155, 0, 250, 1) 100%
+ background-image: linear-gradient(blue,grey,black);
   );
   color: #fff;
   font-size: 18px;
