@@ -8,13 +8,13 @@
 }
 
 body {
- background-image: url('https://2.bp.blogspot.com/-JzuAxZWYxY4/WWNZxPNIp3I/AAAAAAAAT7g/ZUwE4QJUhIMeXSkoA1xIGYIPtgwJpJcqACLcBGAs/s640/background_magic.jpg'); 
+
   width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-/*   background-image: linear-gradient(grey,purple,pink); */
+  background-image: linear-gradient(grey,purple,pink);
   font-family: 'Quicksand', sans-serif;
 }
 
