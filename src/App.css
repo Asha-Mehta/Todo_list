@@ -8,18 +8,18 @@
 }
 
 body {
-   background-image: url('https://krot.info/uploads/posts/2020-01/1579377425_19-49.jpg'); 
+/*    background-image: url('https://krot.info/uploads/posts/2020-01/1579377425_19-49.jpg');  */
   width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-/*   background-image: linear-gradient(grey,purple,pink); */
+  background-image: linear-gradient(grey,purple,pink);
   font-family: 'Quicksand', sans-serif;
 }
 
 .App {
-  background-color:grey;
+  background-color:white;
   padding: 20px;
   margin: 0 auto;
   border-radius: 7px;
