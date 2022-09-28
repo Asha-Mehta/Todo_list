@@ -8,18 +8,18 @@
 }
 
 body {
-/*    background-image: url('https://krot.info/uploads/posts/2020-01/1579377425_19-49.jpg');  */
+ background-image: url('https://2.bp.blogspot.com/-JzuAxZWYxY4/WWNZxPNIp3I/AAAAAAAAT7g/ZUwE4QJUhIMeXSkoA1xIGYIPtgwJpJcqACLcBGAs/s640/background_magic.jpg'); 
   width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: linear-gradient(grey,purple,pink);
+/*   background-image: linear-gradient(grey,purple,pink); */
   font-family: 'Quicksand', sans-serif;
 }
 
 .App {
-  background-color:white;
+  background-color:grey;
   padding: 20px;
   margin: 0 auto;
   border-radius: 7px;
