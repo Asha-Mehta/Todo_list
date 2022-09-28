@@ -77,7 +77,7 @@ input::placeholder {
   outline: none;
   cursor: pointer;
  background-image: linear-gradient(blue,grey,black);
-  );
+ 
   color: #fff;
   font-size: 18px;
   margin-left: 10px;
