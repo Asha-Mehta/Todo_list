@@ -14,7 +14,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
- linear-gradient(pink,red,pink);
+  background-image: linear-gradient(grey,purple,pink);
   font-family: 'Quicksand', sans-serif;
 }
 
